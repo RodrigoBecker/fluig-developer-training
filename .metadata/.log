@@ -1,0 +1,10 @@
+!SESSION 2023-03-24 18:28:26.760 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=19.0.2
+java.vendor=N/A
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_AG
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2023-03-24 18:28:41.260
+!MESSAGE Plugin com.totvs.tds.ecm.designer.gui, extension org.eclipse.ui.preferencePages: Unknown extension tag found: initializer
